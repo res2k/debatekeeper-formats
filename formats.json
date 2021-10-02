@@ -310,22 +310,6 @@
     "description": "Use this format to try out this app without waiting ages for bells"
   },
   {
-    "filename": "test3.xml",
-    "name": "Test format 3",
-    "url": "https://formats.debatekeeper.czlee.nz/formats/test3.xml",
-    "version": 1,
-    "regions": [
-      "None"
-    ],
-    "levels": [
-      "None"
-    ],
-    "used-ats": [
-      "Nowhere"
-    ],
-    "description": "Use this format to try out this app without waiting ages for bells"
-  },
-  {
     "filename": "thropy.xml",
     "name": "Thropy",
     "url": "https://formats.debatekeeper.czlee.nz/formats/thropy.xml",
